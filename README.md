@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-[![Markdown](https://mograph.video/2HwFiEL)](https://gprm.itsvg.in/)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYN6sCBMBHieKJeK6t9MyenfKFFdhBqYfmNbAnCXPP&s)
 
 <h1 align="center">Hi 👋, I'm Fiona Opiyo</h1>
 <h3 align="center">A passionate full stack MERN web developer from Kenya</h3>
