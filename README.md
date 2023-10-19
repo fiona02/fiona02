@@ -1,18 +1,12 @@
 
 <p align=”center”>
 
-<img width="200" height="200" src="https://makeagif.com/i/qQIgw-" alt="my banner"/>
+<img width="200" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscreen-monitor-closeup-26tn33aiTi1jkl6H6&psig=AOvVaw0MUKVrSMwN20JxIuaFzGe7&ust=1697792694406000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC78uXggYIDFQAAAAAdAAAAABAE" alt="my banner"/>
 
 </p>
 
 <h1 align="center">Hi 👋, I'm Fiona Opiyo</h1>
 <h3 align="center">A passionate full stack MERN web developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fpeterzayda%2Fpeterzayda1704%2Fpeterzayda170400155%2F76655600-working-at-home-with-laptop-woman-writing-a-code-female-programmer-hands-on-the-keyboard.jpg&tbnid=7tYd9TfTzDkJyM&vet=12ahUKEwjLzseW3YGCAxU6XqQEHedBAPYQMygJegQIARBd..i&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_76655600_working-at-home-with-laptop-woman-writing-a-code-female-programmer-hands-on-the-keyboard.html&docid=ux5KxtdaezFcsM&w=1300&h=867&q=A%20lady%20with%20a%20laptop%20coding%20and%20in%20a%20dark%20background%20gif&hl=en&ved=2ahUKEwjLzseW3YGCAxU6XqQEHedBAPYQMygJegQIARBd"/>
-
-
-
-
-
 
 
 
