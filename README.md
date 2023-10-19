@@ -1,5 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscreen-monitor-closeup-26tn33aiTi1jkl6H6&psig=AOvVaw0MUKVrSMwN20JxIuaFzGe7&ust=1697792694406000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC78uXggYIDFQAAAAAdAAAAABAE)](https://rishavchanda.io)
-
+<p>
+<img align="center" alt="coding" width="400" src="(https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
+</p>
 
 <h1 align="center">Hi 👋, I'm Fiona Opiyo</h1>
 <h3 align="center">A passionate full stack MERN web developer from Kenya</h3>
