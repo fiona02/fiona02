@@ -1,5 +1,5 @@
 <p>
-<img align="center" alt="coding" width="400" src="(https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
+<img align="center" alt="coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
 </p>
 
 <h1 align="center">Hi 👋, I'm Fiona Opiyo</h1>
