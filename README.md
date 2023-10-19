@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<img align="center" width="1000" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQwYjZtYWI5NnZwN3N5dGswb2x3ZGlrbTdnZHR0ZmRiOHVrZnVvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="center" width="1000" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQwYjZtYWI5NnZwN3N5dGswb2x3ZGlrbTdnZHR0ZmRiOHVrZnVvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Fiona Opiyo</h1>
 <h3 align="center">A passionate full stack MERN web developer from Kenya</h3>
