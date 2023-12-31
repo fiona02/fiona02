@@ -7,7 +7,10 @@
 <h1 align="center">Hi 👋, I'm Fiona Michelle Opiyo</h1>
 
 <h3 align="center">A passionate full stack MERN web developer from Kenya<br>
-Currently working on Angular.js
+
+  
+Currently working on Angular.js and MEAN stack
+
 </h3>
 
 # 💻 Tech Stack:
