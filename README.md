@@ -9,7 +9,7 @@
 <h3 align="center">A passionate full stack web developer from Kenya<br>
 
   
-Currently working on Data Structures and Algorithims
+Currently working on Data Structures and Algorithims & System Design
 
 </h3>
 
