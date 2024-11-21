@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Fiona</h1>
 
-<h3 align="center">A passionate full stack web developer from Kenya<br>
+<h3 align="center">A passionate full stack software developer from Kenya<br>
 
   
 Currently working on Data Structures and Algorithims & System Design
